@@ -1,3 +1,4 @@
+*.png
 # Game Project
 
 Para correr el juego debes ejecutar las siguientes instrucciones en la terminal
